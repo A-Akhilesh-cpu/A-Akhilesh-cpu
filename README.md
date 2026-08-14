@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!!<br><br>I am Akhilesh Anumanchipalle<br>Pursuing B.Tech CSE Engineering in SRM University, AP<br>Full-Stack Developer, Web Developer, Python Programmer
+Hi there!!<br><br>I am Akhilesh Anumanchipalle<br>Pursuing B.Tech CSE Engineering<br>I am currently working on some AI vibe coded projects<br>
 
 
 # 💻 Tech Stack:
